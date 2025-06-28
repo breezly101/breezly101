@@ -1,4 +1,4 @@
-<p align="center">
+<p align="right">
   <img src="mona-whisper.gif" alt="Mona Whisper" width="124" height="124">
 </p>
 
