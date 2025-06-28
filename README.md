@@ -1,14 +1,3 @@
-<!-- Load Pixel Font -->
-<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
-
-<style>
-  .pixel {
-    font-family: 'Press Start 2P', monospace;
-    font-size: 12px;
-    line-height: 1.8;
-  }
-</style>
-
 <p align="left">
   <img src="mona-whisper.gif" alt="Mona Whisper" width="124" height="124">
 </p>
